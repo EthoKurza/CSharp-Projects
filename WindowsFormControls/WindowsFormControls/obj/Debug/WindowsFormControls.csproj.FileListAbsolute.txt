@@ -1,0 +1,9 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\bin\Debug\WindowsFormControls.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\bin\Debug\WindowsFormControls.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\bin\Debug\WindowsFormControls.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\obj\Debug\WindowsFormControls.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\obj\Debug\WindowsFormControls.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\obj\Debug\WindowsFormControls.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\obj\Debug\WindowsFormControls.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\obj\Debug\WindowsFormControls.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\WindowsFormControls\WindowsFormControls\obj\Debug\WindowsFormControls.pdb

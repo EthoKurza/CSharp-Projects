@@ -1,0 +1,9 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\bin\Debug\W1InvoiceTotal.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\bin\Debug\W1InvoiceTotal.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\bin\Debug\W1InvoiceTotal.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\obj\Debug\W1InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\obj\Debug\W1InvoiceTotal.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\obj\Debug\W1InvoiceTotal.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\obj\Debug\W1InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\obj\Debug\W1InvoiceTotal.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\W1InvoiceTotal\W1InvoiceTotal\obj\Debug\W1InvoiceTotal.pdb

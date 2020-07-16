@@ -1,0 +1,6 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\Week1CSharpEssentials\Week1CSharpEssentials\bin\Debug\Week1CSharpEssentials.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\Week1CSharpEssentials\Week1CSharpEssentials\bin\Debug\Week1CSharpEssentials.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\Week1CSharpEssentials\Week1CSharpEssentials\bin\Debug\Week1CSharpEssentials.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\Week1CSharpEssentials\Week1CSharpEssentials\obj\Debug\Week1CSharpEssentials.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\Week1CSharpEssentials\Week1CSharpEssentials\obj\Debug\Week1CSharpEssentials.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\Week1CSharpEssentials\Week1CSharpEssentials\obj\Debug\Week1CSharpEssentials.pdb
