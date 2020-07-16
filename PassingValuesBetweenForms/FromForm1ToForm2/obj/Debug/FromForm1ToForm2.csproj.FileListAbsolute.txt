@@ -1,0 +1,10 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\bin\Debug\FromForm1ToForm2.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\bin\Debug\FromForm1ToForm2.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\bin\Debug\FromForm1ToForm2.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\obj\Debug\FromForm1ToForm2.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\obj\Debug\FromForm1ToForm2.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\obj\Debug\FromForm1ToForm2.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\obj\Debug\FromForm1ToForm2.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\obj\Debug\FromForm1ToForm2.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\obj\Debug\FromForm1ToForm2.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\PassingValuesBetweenForms\FromForm1ToForm2\obj\Debug\FromForm1ToForm2.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\bin\Debug\MTHeyzzenFlores.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\bin\Debug\MTHeyzzenFlores.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\bin\Debug\MTHeyzzenFlores.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\obj\Debug\MTHeyzzenFlores.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\obj\Debug\MTHeyzzenFlores.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\obj\Debug\MTHeyzzenFlores.Form2.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\obj\Debug\MTHeyzzenFlores.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\obj\Debug\MTHeyzzenFlores.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\obj\Debug\MTHeyzzenFlores.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MTHeyzzenFlores\MTHeyzzenFlores\obj\Debug\MTHeyzzenFlores.pdb
