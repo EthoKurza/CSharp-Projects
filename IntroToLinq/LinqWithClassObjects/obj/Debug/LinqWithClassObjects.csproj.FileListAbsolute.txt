@@ -1,0 +1,6 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithClassObjects\bin\Debug\LinqWithClassObjects.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithClassObjects\bin\Debug\LinqWithClassObjects.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithClassObjects\bin\Debug\LinqWithClassObjects.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithClassObjects\obj\Debug\LinqWithClassObjects.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithClassObjects\obj\Debug\LinqWithClassObjects.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithClassObjects\obj\Debug\LinqWithClassObjects.csprojAssemblyReference.cache

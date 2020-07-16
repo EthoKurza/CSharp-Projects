@@ -1,0 +1,5 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MethodsAndEnums\IntroToFunctionsMethods\bin\Debug\IntroToFunctionsMethods.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MethodsAndEnums\IntroToFunctionsMethods\bin\Debug\IntroToFunctionsMethods.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MethodsAndEnums\IntroToFunctionsMethods\bin\Debug\IntroToFunctionsMethods.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MethodsAndEnums\IntroToFunctionsMethods\obj\Debug\IntroToFunctionsMethods.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\MethodsAndEnums\IntroToFunctionsMethods\obj\Debug\IntroToFunctionsMethods.pdb

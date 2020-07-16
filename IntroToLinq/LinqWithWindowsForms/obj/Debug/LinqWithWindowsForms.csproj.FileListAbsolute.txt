@@ -1,0 +1,9 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\bin\Debug\LinqWithWindowsForms.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\bin\Debug\LinqWithWindowsForms.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\bin\Debug\LinqWithWindowsForms.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\obj\Debug\LinqWithWindowsForms.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\obj\Debug\LinqWithWindowsForms.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\obj\Debug\LinqWithWindowsForms.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\obj\Debug\LinqWithWindowsForms.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\obj\Debug\LinqWithWindowsForms.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithWindowsForms\obj\Debug\LinqWithWindowsForms.pdb

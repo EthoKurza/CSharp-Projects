@@ -1,0 +1,5 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithList\bin\Debug\LinqWithList.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithList\bin\Debug\LinqWithList.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithList\bin\Debug\LinqWithList.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithList\obj\Debug\LinqWithList.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\LinqWithList\obj\Debug\LinqWithList.pdb
