@@ -1,0 +1,9 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\bin\Debug\A1HeyzzenFlores.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\bin\Debug\A1HeyzzenFlores.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\bin\Debug\A1HeyzzenFlores.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\obj\Debug\A1HeyzzenFlores.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\obj\Debug\A1HeyzzenFlores.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\obj\Debug\A1HeyzzenFlores.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\obj\Debug\A1HeyzzenFlores.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\obj\Debug\A1HeyzzenFlores.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\A1HeyzzenFlores\A1HeyzzenFlores\obj\Debug\A1HeyzzenFlores.pdb
