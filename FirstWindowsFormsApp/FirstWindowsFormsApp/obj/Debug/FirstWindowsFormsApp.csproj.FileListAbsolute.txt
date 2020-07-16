@@ -1,0 +1,9 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\bin\Debug\FirstWindowsFormsApp.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\FirstWindowsFormsApp\FirstWindowsFormsApp\obj\Debug\FirstWindowsFormsApp.pdb

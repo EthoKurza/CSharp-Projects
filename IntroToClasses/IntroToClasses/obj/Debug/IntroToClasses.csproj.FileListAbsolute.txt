@@ -1,0 +1,9 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\bin\Debug\IntroToClasses.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\bin\Debug\IntroToClasses.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\bin\Debug\IntroToClasses.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\obj\Debug\IntroToClasses.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\obj\Debug\IntroToClasses.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\obj\Debug\IntroToClasses.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\obj\Debug\IntroToClasses.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\obj\Debug\IntroToClasses.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToClasses\IntroToClasses\obj\Debug\IntroToClasses.pdb

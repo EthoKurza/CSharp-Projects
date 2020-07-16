@@ -1,0 +1,6 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\IntroToLinq\obj\Debug\IntroToLinq.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\IntroToLinq\bin\Debug\IntroToLinq.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\IntroToLinq\bin\Debug\IntroToLinq.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\IntroToLinq\bin\Debug\IntroToLinq.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\IntroToLinq\obj\Debug\IntroToLinq.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\IntroToLinq\IntroToLinq\obj\Debug\IntroToLinq.pdb

@@ -1,0 +1,6 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\InheritanceInCSharp\InheritanceInCSharp\bin\Debug\InheritanceInCSharp.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\InheritanceInCSharp\InheritanceInCSharp\bin\Debug\InheritanceInCSharp.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\InheritanceInCSharp\InheritanceInCSharp\bin\Debug\InheritanceInCSharp.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\InheritanceInCSharp\InheritanceInCSharp\obj\Debug\InheritanceInCSharp.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\InheritanceInCSharp\InheritanceInCSharp\obj\Debug\InheritanceInCSharp.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\InheritanceInCSharp\InheritanceInCSharp\obj\Debug\InheritanceInCSharp.pdb
