@@ -1,0 +1,6 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeExampleWeek4\EmployeeExampleWeek4\obj\Debug\EmployeeExampleWeek4.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeExampleWeek4\EmployeeExampleWeek4\bin\Debug\EmployeeExampleWeek4.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeExampleWeek4\EmployeeExampleWeek4\bin\Debug\EmployeeExampleWeek4.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeExampleWeek4\EmployeeExampleWeek4\bin\Debug\EmployeeExampleWeek4.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeExampleWeek4\EmployeeExampleWeek4\obj\Debug\EmployeeExampleWeek4.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeExampleWeek4\EmployeeExampleWeek4\obj\Debug\EmployeeExampleWeek4.pdb

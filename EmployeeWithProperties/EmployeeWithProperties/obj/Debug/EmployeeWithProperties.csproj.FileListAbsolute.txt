@@ -1,0 +1,8 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeWithProperties\EmployeeWithProperties\bin\Debug\EmployeeWithProperties.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeWithProperties\EmployeeWithProperties\bin\Debug\EmployeeWithProperties.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeWithProperties\EmployeeWithProperties\bin\Debug\EmployeeWithProperties.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeWithProperties\EmployeeWithProperties\obj\Debug\EmployeeWithProperties.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeWithProperties\EmployeeWithProperties\obj\Debug\EmployeeWithProperties.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeWithProperties\EmployeeWithProperties\obj\Debug\EmployeeWithProperties.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeWithProperties\EmployeeWithProperties\obj\Debug\EmployeeWithProperties.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeWithProperties\EmployeeWithProperties\obj\Debug\EmployeeWithProperties.pdb

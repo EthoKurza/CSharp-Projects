@@ -1,0 +1,9 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\bin\Debug\ArithmeticApp.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\bin\Debug\ArithmeticApp.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\bin\Debug\ArithmeticApp.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\ArithmeticApp\ArithmeticApp\obj\Debug\ArithmeticApp.pdb

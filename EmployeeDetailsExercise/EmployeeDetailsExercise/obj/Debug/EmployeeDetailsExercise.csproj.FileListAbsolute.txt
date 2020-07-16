@@ -1,0 +1,9 @@
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\bin\Debug\EmployeeDetailsExercise.exe.config
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\bin\Debug\EmployeeDetailsExercise.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\bin\Debug\EmployeeDetailsExercise.pdb
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\obj\Debug\EmployeeDetailsExercise.csprojAssemblyReference.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\obj\Debug\EmployeeDetailsExercise.Form1.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\obj\Debug\EmployeeDetailsExercise.Properties.Resources.resources
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\obj\Debug\EmployeeDetailsExercise.csproj.GenerateResource.cache
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\obj\Debug\EmployeeDetailsExercise.exe
+C:\Users\heyzz\Desktop\Computer Programmer\Y2\Semester 4\NET & Csharp\C# Projects\EmployeeDetailsExercise\EmployeeDetailsExercise\obj\Debug\EmployeeDetailsExercise.pdb
